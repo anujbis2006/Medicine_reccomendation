@@ -1,4 +1,4 @@
-# Personalized Medicine Recommendation System
+# Personalized Medicine Recommendation System.
 
 An internship project that recommends a likely disease and basic
 medicine/advice information based on a patient's symptoms and vitals.
